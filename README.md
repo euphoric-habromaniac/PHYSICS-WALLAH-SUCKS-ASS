@@ -12,7 +12,7 @@ This browser extension automatically switches your system's audio settings to mo
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/PHYSICS-WALLAH-SUCKS-ASS.git
+   git clone https://github.com/euphoric-habromaniac/PHYSICS-WALLAH-SUCKS-ASS.git
    cd PHYSICS-WALLAH-SUCKS-ASS
    ```
 2. **Load the Extension in Your Browser:**
